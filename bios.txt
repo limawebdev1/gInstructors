@@ -1,0 +1,19 @@
+Craig Quincy - Lead Instructor, Principal Full Stack Developer
+A man who has braved the wilderness without a sleeping bag, a man who has braved years in the industry - endured years in a failing start-up, who has felt the slapback of teen rebellion as a middle school teacher; he is one principal instructor to rule them all. Nicknamed by his most beloved student as "Craaag", he responds humbly to the requests of the needy students who are parched - he quenches their thirst with his overflowing fountain of knowledge. "Ahhh", they sigh, "our cups runneth over".
+
+Teddi Maull - Instructor/Sr. Full Stack Developer
+The benevolent queen of Galvanize - she nurtures the weary students through the swamps of shame, the depths of despair, and the valleys of varied degrees of absolute lows. She herself was once amongst those who conquered the full stack as a student of g7. You can hear her soothing voice murmuring sweet Javascript knowledge into the ears of the students who close their eyes, lulled into a false sense of comfort. Alas, if only you could fix a syntax error with your eyes closed. Teddi can.
+
+Mat Brown - Lead Instructor
+
+
+Alicia Key - Associate Instructor
+Every so often, some student will dive down a rabbit hole of epic proportions veering clear off the path of full-stackdom into Wonderland. At the end of that rabbit hole lives Alicia, waiting for them with a shovel, inviting them to dig themselves deeper into that rabbit hole with a flurry of tech-related jokes they can't keep up with. They laugh hesitantly and quickly reconsider and reevaluate their mastery of the current content. Humbled, they scurry back to the rest of the pack where comfort lies, but also knowing that whenever they feel ready to dive down again, Alicia will be there waiting for them.
+
+Peter Silva - Associate Instructor
+Amongst the button-ups and fake Italian shoes that define startup culture fashion, you'll find Pete - fur-trimmed coat and totem-pole sweater in check. When students' eyes are burned by the fiery red error messages that appear in their console, they can soothe them on the always-aesthetic ensemble that Pete has put together that day. But as we all know, it's not what's on the outside that matters - it's what's on the inside and inside Pete is a swirly amalgamation of knowledge in web development, IoT, music, and love for his students.
+
+Lisa Ma - Web Development Resident
+
+
+Katie Jenkins - Web Development Resident
