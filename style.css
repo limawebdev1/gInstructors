@@ -1,0 +1,31 @@
+html,body{
+  margin-top:1%;
+}
+.gTitle{
+  width:30%;
+}
+.main{
+  margin-left:3%;
+  margin-right:3%;
+}
+.row .col.instructor{
+  border:1px solid #A49B88;
+  border-radius:1%;
+  padding:1%;
+  margin:1%;
+  width:48%;
+}
+.profImg{
+  padding-top:12%;
+  width:100%;
+}
+p.instructorName{
+  font-size:25px;
+  padding:0%;
+  -webkit-margin-before: 1em;
+  -webkit-margin-after: 0em;
+}
+.logos > a{
+  padding-left:3%;
+  color:black;
+}
