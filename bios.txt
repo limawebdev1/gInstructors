@@ -15,7 +15,5 @@ Peter Silva - Associate Instructor
 At first glance, the word "shady" comes to mind. What with his fur-trimmed coat and thrift store paraphernalia, you wonder whether his knowledge is as cheap as his wardrobe looks.
 Amongst the button-ups and fake Italian shoes that define startup culture fashion, you'll find Pete - fur-trimmed coat and totem-pole sweater in check. When students' eyes are burned by the fiery red error messages that appear in their console, they can soothe them on the always-aesthetic ensemble that Pete has put together that day. But as we all know, it's not what's on the outside that matters - it's what's on the inside and inside Pete is a swirly amalgamation of knowledge in web development, IoT, music, and love for his students.
 
-Lisa Ma - Web Development Resident
-
-
 Katie Jenkins - Web Development Resident
+Katie is the resident angel goddess shining glorious holy light unto the dark and torturous path of full-stack developery. If you're having a bad day, one look at Katie's radiant smile and you'll feel the power of a thousand suns rise up within you and with that power you smite your syntax errors in the face and conquer the JavaScripts. Katie was once a warrior on her own path to full-stackdom and now that she has conquered it, she leads g49 with leadership qualities you could only dream of. 
